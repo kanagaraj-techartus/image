@@ -2,7 +2,7 @@
 =
 
 `image` is a set of Go libraries aimed at working in various way with
-containers' images and container image registries.
+containers' images and container image registries. ---
 
 The containers/image library allows application to pull and push images from
 container image registries, like the docker.io and quay.io registries. It also
